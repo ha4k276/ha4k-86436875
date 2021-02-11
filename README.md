@@ -1,3 +1,3 @@
 # shitt
 poor
-()[steam://nav/console]
+[aaaa](steam://nav/console)
